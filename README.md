@@ -27,6 +27,8 @@
 
 ## OUTPUT:
 ![image](https://github.com/panimalarponnurangam/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121490826/cfa3fe35-4862-439a-80ca-168ab72045e7)
+```
+
 Y-AXIS BASE :
 The base of the printer that supports the rest of the components.
 
@@ -67,7 +69,7 @@ FILAMENT :
 material that is used to create the printed object.
 
 
-
+```
 
 
 ![Screenshot 2023-05-21 230834](https://github.com/panimalarponnurangam/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121490826/1c01a657-607c-4fe1-bb62-1e5bd042abfe)
